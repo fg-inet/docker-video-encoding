@@ -26,7 +26,6 @@ If the source video shall be splitted into segments of fixed duration, set maxdu
 Additional Requirements:
 
   - Linux OS
-  - rename (from util-linux)
   - wget
   - screen
 
