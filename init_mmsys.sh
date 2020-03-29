@@ -18,5 +18,4 @@ mkdir -p $JOBS/{00_waiting,01_running,02_done,99_failed}
 wget https://service.inet.tu-berlin.de/owncloud/index.php/s/8NA7IFNKN9TgXVA/download -O videos/bigbuckbunny480p24x30s.y4m
 
 # copy template files to job directory
-cp samples/jobs/00_waiting/*.tmpl jobs/00_waiting/
-rename '.tmpl' '' jobs/00_waiting/*
+cp samples/jobs/00_waiting/*.txt jobs/00_waiting/
