@@ -28,6 +28,7 @@ Additional Requirements:
   - Linux OS
   - rename (from util-linux)
   - wget
+  - screen
 
 Steps 2, 3 and 4 are optional and can be skipped, if only example files should be used.
 
