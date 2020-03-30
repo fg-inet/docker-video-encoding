@@ -1,5 +1,6 @@
 # Docker Video Encoding
 
+![Docker Video Encoding](images/docker_appendix.png)
 Docker container for DASH video encoding using FFMPEG.
 The following parameters can be specified:
 
