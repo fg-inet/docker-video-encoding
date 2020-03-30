@@ -34,7 +34,7 @@ Steps 2, 3 and 4 are optional and can be skipped, if only example files should b
 
   1. Run `init_mmsys.sh`
   2. Create Job Files as described [here](https://github.com/fg-inet/video-scripts).
-  3. Copy them into `jobs/`.
+  3. Copy them into `jobs/00_waiting/`.
   4. Copy the source videos into `videos/`.
   5. Run `run_workers_mmsys.sh`.
   6. Video statistics file are located at `results/` and encoded videos at `sshfs_dir/`.
