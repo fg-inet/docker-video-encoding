@@ -14,7 +14,7 @@ The following parameters can be specified:
 * **timestamps:** I-frame positions from reference encoding
 * **cst_bitrate:** target bitrate for constant bitrate encoding (cbr)
 
-If the source video shall be splitted into segments of fixed duration, set maxdur=mindur=target_seg_length=[fix duration]; If the source video shall be splitted into segments of variable duration, please set target_seg_length=0.0. You can find example job files under `samples/jobs/00_waiting`.
+If the source video shall be splitted into segments of fixed duration, set maxdur=mindur=target_seg_length=[fix duration]; If the source video shall be splitted into segments of variable duration, please set target_seg_length=0.0. You can find example job files under `samples/jobs/00_waiting/`.
 
 
 ## Requirements
