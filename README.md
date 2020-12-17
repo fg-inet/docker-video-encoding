@@ -1,8 +1,8 @@
 # Docker Video Encoding
+Artifacts to ACM MMSys'20 paper "Comparing fixed and variable segment durations for adaptive video streaming: a holistic analysis". [Available here](https://dl.acm.org/doi/abs/10.1145/3339825.3391858)
+
 ![Docker Video Encoding](images/docker_appendix.png)
 Docker container for DASH video encoding using FFMPEG.
-Used in the ACM MMSys'20 paper "Comparing fixed and variable segment durations for adaptive video streaming: a holistic analysis". [Available here](https://dl.acm.org/doi/abs/10.1145/3339825.3391858)
-
 
 The following parameters can be specified:
 
